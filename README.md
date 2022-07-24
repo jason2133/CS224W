@@ -15,6 +15,6 @@ Stanford CS224W: Machine Learning with Graphs
 |2022. 07. 21. (목)|Colab 2</br>Colab 3|Colab 2</br>Colab 3|
 |2022. 07. 22. (금)|GNN 논문 읽기|MTGNN - Multivariate Time Series GNN|
 |2022. 07. 23. (토)|Colab 3|Colab 3|
-|2022. 07. 24. (일)|Colab 4</br>Colab 5|Colab 4/br>Colab 5|
+|2022. 07. 24. (일)|Colab 4</br>Colab 5|Colab 4</br>Colab 5|
 |2022. 07. 25. (월)|Colab 5|Colab 5|
 
