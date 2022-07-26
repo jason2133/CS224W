@@ -17,4 +17,4 @@ Stanford CS224W: Machine Learning with Graphs
 |2022. 07. 23. (토)|Colab 3|Colab 3|
 |2022. 07. 24. (일)|Colab 4</br>Colab 5|Colab 4</br>Colab 5|
 |2022. 07. 25. (월)|Colab 5|Colab 5|
-
+|2022. 07. 26. (화)|Colab 5|Colab 5|
