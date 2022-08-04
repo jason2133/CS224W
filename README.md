@@ -23,5 +23,5 @@ Stanford CS224W: Machine Learning with Graphs
 ## Stanford CS224W 복습
 |Date|Lecture|Contents|
 |:------:|:-----:|:-----:|
-|2022. 08. 04. (목)|1</br>2|Introduction: Machine Learning for Graphs</br>Traditional Methods for ML on Graphs|
+|2022. 08. 04. (목)|1</br>2</br></br>**생성 모델 특집**</br>14</br>15|Introduction: Machine Learning for Graphs</br>Traditional Methods for ML on Graphs</br></br>**데이터 증강기법 알아봐야 함.**</br>**Traditional Generative Models for Graphs</br>Deep Generative Models for Graphs**|
 
