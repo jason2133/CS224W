@@ -24,6 +24,6 @@ Stanford CS224W: Machine Learning with Graphs
 |Date|Lecture|Contents|
 |:------:|:-----:|:-----:|
 |2022. 08. 04. (목)|1</br>2</br></br>**생성 모델 특집**</br>14</br>15|Introduction: Machine Learning for Graphs</br>Traditional Methods for ML on Graphs</br></br>**데이터 증강기법 알아봐야 함.**</br>**Traditional Generative Models for Graphs</br>Deep Generative Models for Graphs**|
-|2022. 08. 05. (금)|3</br>4/br>5</br>6</br>7|Node Embeddings</br>Link Analysis: PageRank</br>Label Propagation for Node Classification</br>Graph Neural Networks 1: GNN Model</br>Graph Neural Networks 2: Design Space|
+|2022. 08. 05. (금)|3</br>4</br>5</br>6</br>7|Node Embeddings</br>Link Analysis: PageRank</br>Label Propagation for Node Classification</br>Graph Neural Networks 1: GNN Model</br>Graph Neural Networks 2: Design Space|
 |2022. 08. 06. (토)|5</br>6</br>7|Label Propagation for Node Classification</br>Graph Neural Networks 1: GNN Model</br>Graph Neural Networks 2: Design Space|
 |2022. 08. 07. (일)|8</br>9|Applications of Graph Neural Networks</br>Theory of Graph Neural Networks|
