@@ -19,3 +19,9 @@ Stanford CS224W: Machine Learning with Graphs
 |2022. 07. 25. (월)|Colab 5|Colab 5|
 |2022. 07. 26. (화)|Colab 5|Colab 5|
 |2022. 08. 01. (월)|LA Traffic|Predicting LA Traffic with GNN|
+
+## Stanford CS224W 복습
+|Date|Lecture|Contents|
+|:------:|:-----:|:-----:|
+|2022. 08. 04. (목)|1</br>2|Introduction: Machine Learning for Graphs</br>Traditional Methods for ML on Graphs|
+
